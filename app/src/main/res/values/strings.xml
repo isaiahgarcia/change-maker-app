@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">isaiahgarciaChangeMaker</string>
+    <string name="price_text"><b>Price:</b></string>
+    <string name="price_value_text">0.00</string>
+    <string name="button_0_text">0</string>
+    <string name="button_1_text">1</string>
+    <string name="button_2_text">2</string>
+    <string name="button_3_text">3</string>
+    <string name="button_4_text">4</string>
+    <string name="button_5_text">5</string>
+    <string name="button_6_text">6</string>
+    <string name="button_7_text">7</string>
+    <string name="button_8_text">8</string>
+    <string name="button_9_text">9</string>
+    <string name="button_clear_text">CLEAR</string>
+    <string name="dollar_twenty_text"><b>$20:</b></string>
+    <string name="dollar_ten_text"><b>$10:</b></string>
+    <string name="dollar_five_text"><b>$5:</b></string>
+    <string name="dollar_one_text"><b>$1:</b></string>
+    <string name="cent_twenty_five_text"><b>25¢:</b></string>
+    <string name="cent_ten_text"><b>10¢:</b></string>
+    <string name="cent_five_text"><b>5¢:</b></string>
+    <string name="cent_one_text"><b>1¢:</b></string>
+</resources>
